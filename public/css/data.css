@@ -1,0 +1,99 @@
+body{
+    background-color: #d3d3d3;
+    font-family: Helvetica;
+}
+h1{
+    font-size: 3rem;
+    margin-bottom: 3%;
+}
+table{
+    background-color: #949494;
+    font-size: 1.7rem;
+}
+td {
+    padding: 0 30px;
+    border: none;
+}
+tr{
+    border: none;
+    height: 50px;
+}
+thead{
+    border-bottom: solid ;
+    height: 90px;
+}
+th{
+    padding: 0 23px;
+}
+
+.content{
+    margin-top: 5%;
+    text-align: center;
+    
+}
+
+/* student_data */
+select{
+    background-color: #EEEDDE;
+}
+.dropDown{
+    display: flex;
+    width: 400px;
+    padding-left: 60px;
+    margin-bottom: 80px;
+}
+.btn{
+    margin-left: 20px;
+}
+
+/* attendance */
+.tb{
+    margin-left: 32%;
+    width: 35%;
+}
+.formAttend{
+    display: flex;
+    flex-direction: column;
+}
+.btn{
+    margin-top: 20px;
+    width: 150px;
+}
+
+.form-check{
+    margin-right: 30px;
+}
+
+/* Marks */
+input{
+    width:180px;
+}
+.formStats{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 3%;
+}
+
+/* success */
+.success{
+    width: 180px;
+    height:180px
+}
+
+/* student login */
+.stuData{
+    margin-left: 20%;
+}
+
+/* add member  and remove member*/
+.addMember{
+    width: 50%;
+    display: flex;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+/* remove member */
+.remInp{
+    width: 400px;
+}

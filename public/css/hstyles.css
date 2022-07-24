@@ -1,0 +1,22 @@
+body{
+    background-color: #a7dbff;
+}
+
+span{
+    padding-top: 10%;
+    font-family: "copper plate";
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 5%;
+}
+
+.content{
+    display: flex;
+}
+
+.homeImage{
+    margin-top: 5%;
+    padding-left:100px ;
+}
+

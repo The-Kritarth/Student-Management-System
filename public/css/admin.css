@@ -1,0 +1,54 @@
+body{
+    background-color: #d3d3d3;
+    font-family: Helvetica;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    font-size: 1.2rem;
+    
+}
+
+a:hover{
+    color: #28231d;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.greet{
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+.pic{
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+}
+
+.ask{
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 100px;
+}
+
+.btn{
+    background-color: #9dc5c3;
+    background-image: linear-gradient(315deg, #9dc5c3 0%, #5e5c5c 74%);
+    margin-left: 35px;
+    height:100px;
+    width:150px;
+    box-shadow: 5px 10px #bebebe;
+    border-radius: 10%;
+}
+
+.button{
+    margin-top: 30px;
+}
+

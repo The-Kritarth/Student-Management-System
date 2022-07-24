@@ -1,0 +1,46 @@
+body{
+    background-color: #d3d3d3;
+    font-family: Helvetica;
+}
+
+.card{
+    height: 100px;
+    width: 400px;
+    margin-top: 7%;
+    margin-left: 35%;
+    background-color: black;
+    color: #fff;   
+}
+
+.card-header{
+    text-align: center;
+    background-color: #000;
+    margin-bottom: 30px;
+    font-size: 2rem;
+    font-weight: bold;   
+}
+
+.card-body{
+    background-color: black;
+}
+
+.form-control{
+    background-color: #EEEDDE;
+    margin-bottom: 20px;
+}
+
+.role{
+     margin-left: 30px;
+}
+
+.btn{
+     margin-top: 30px;
+}
+
+.alert{
+     margin-bottom: 3%;
+     background-color: #d3d3d3;
+     border-color: #d3d3d3;
+     color: #CE1212;
+     margin-top: 25px;
+ }
